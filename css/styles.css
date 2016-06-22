@@ -391,13 +391,13 @@ iframe {
   margin-bottom: 0;
 }
 .testimonials .item .quote {
-  color: #F16932;
+  color: #666;
   font-size: 16px;
   border-left-color: #9fdeb7;
   margin-bottom: 15px;
 }
 .testimonials .item .quote .fa {
-  color: #79d19a;
+  color: #F16932;
   margin-right: 15px;
 }
 .testimonials .item .source {
